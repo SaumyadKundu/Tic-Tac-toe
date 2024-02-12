@@ -55,7 +55,7 @@ function resetGame() {
     document.getElementById("message").textContent = "Player X's turn";
 }
 
-// Add event listeners to each cell
+
 const cells = document.getElementsByClassName("cell");
 for (let i = 0; i < cells.length; i++) {
     cells[i].addEventListener("click", function () {
