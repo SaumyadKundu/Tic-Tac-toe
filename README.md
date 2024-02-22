@@ -3,7 +3,7 @@
 This documentation provides an overview of the Two Player Tic Tac Toe game, detailing its features, and code structure.
 
 ## Game Link
-You can play the game [here](https://saumyadkundu.github.io/Tic-Tac-toe/).
+You can play the game [here](https://tic-tak-toe1.vercel.app/).
 
 ## Usage
 - Players take turns clicking cells to place their symbols (X or O).
