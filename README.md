@@ -1,4 +1,5 @@
-# Introduction
+# Tic-Tac-toe
+## Introduction
 This documentation provides an overview of the Two Player Tic Tac Toe game, detailing its features, and code structure.
 
 ## Game Link
